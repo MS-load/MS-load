@@ -28,15 +28,11 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass)
 
-##### Back-End Frameworks and Libraries
+##### Back-End Frameworks and Libraries and Databases
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
-
-##### Databases
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-000?&logo=mongoDb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-
-##### DevOps and Cloud Services
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
