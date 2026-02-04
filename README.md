@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/MS-load/MS-load/assets/55544744/090f7c00-0f50-46d0-8a69-1642ef4eb6d5"   width="400" height="400" alt="Profile Image">
 
-I have a simple mission - use web technologies to bring the joy of creativity to the user. As a Fullstack Web-Developer with a background in architecture, I'm a full-spectrum designer, adept in applying the right design for the right experience - I view coding as the truest way of making imagination real.
+I have a simple mission - use web technologies to bring the joy of creativity to the user. As a Fullstack Developer with a background in architecture, I'm a full-spectrum designer, adept in applying the right design for the right experience - I view coding as the truest way of making imagination real.
 
 ---
 
